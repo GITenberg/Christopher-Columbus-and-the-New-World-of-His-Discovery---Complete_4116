@@ -1,0 +1,33 @@
+_repo: Christopher-Columbus-and-the-New-World-of-His-Discovery---Complete_4116
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 4116/4116-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Young, Filson
+    aliases:
+    - Young, Alexander Bell Filson
+    - Young, A. B. Filson (Alexander Bell Filson)
+    birthdate: 1876
+    deathdate: 1938
+    gutenberg_agent_id: '1393'
+    url: http://www.gutenberg.org/2009/agents/1393
+description: Vol. 1. -- 2. Ed.
+gutenberg_issued: '2003-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4116'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'America -- Discovery and exploration'
+- !lcsh 'Columbus, Christopher'
+- !lcc 'E011'
+- GITenberg
+title: Christopher Columbus and the New World of His Discovery — Complete
+url: http://www.gutenberg.org/ebooks/4116
